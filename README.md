@@ -43,6 +43,14 @@ The cleaned dataset is available here:
 
 ---
 
+#### 📸 Excel Dataset Preview  
+<p align="center">
+  <img src="Excel_Preview.png" alt="Excel Data Preview" width="700">
+</p>
+
+
+---
+
 ## 🧮 Methodology  
 
 | Step | Description |
@@ -68,6 +76,20 @@ The cleaned dataset is available here:
 | **Sleep Hours → Happiness** | r = 0.03 (ns) | No strong linear correlation |
 | **Gender vs. Diet Type** | χ² = 4.268, p = 0.832 | No significant relationship |
 | **Normality (Shapiro–Wilk)** | p = 0.19 | Approximately normal distribution |
+
+---
+
+#### 📸 SPSS Visualizations  
+
+**Histogram – Happiness Score Distribution**  
+<p align="center">
+  <img src="SPSS_Histogram.png" alt="SPSS Histogram" width="700">
+</p>
+
+**Detrended Q-Q Plot – Happiness Score Normality Check**  
+<p align="center">
+  <img src="SPSS_Stem&Leaf.png" alt="SPSS Q-Q Plot" width="700">
+</p>
 
 ---
 
