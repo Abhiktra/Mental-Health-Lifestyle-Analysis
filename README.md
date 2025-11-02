@@ -32,7 +32,8 @@ The dataset includes key features like:
 ## 📂 Dataset  
 
 The cleaned dataset is available here:  
-📄 [`Mental_Health_Lifestyle_Dataset.xlsx`](data/Mental_Health_Lifestyle_Dataset.xlsx)
+📄 [Mental_Health_Lifestyle_Dataset.csv.xlsx](Mental_Health_Lifestyle_Dataset.csv.xlsx)
+
 
 ### 🧹 Cleaning Steps (in Excel)
 1. Removed duplicates and empty rows  
@@ -85,7 +86,8 @@ The cleaned dataset is available here:
 ## 📄 SPSS Output File  
 
 Full statistical output with tables and charts:  
-📊 [`spss_output.pdf`](spss_analysis/spss_output.pdf)
+📊 [SPSS Output (PDF)](spss%20output.pdf)
+
 
 ### Includes:
 - Descriptive statistics tables  
